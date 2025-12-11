@@ -13,4 +13,4 @@ Getting started (frontend)
    ```sh
    npm run dev
    ```
-4. Open http://localhost:3000 (Vite default) and upload a PDF using the UI
+4. Run the app on localhost at port 3000 and upload a PDF using the UI
